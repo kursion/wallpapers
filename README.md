@@ -1,4 +1,4 @@
 Wallpapers
 ==========
 
-Some wallpapers for developpers and relaxing stuff to see while programming
+Some wallpapers for developers and relaxing stuff to see while programming
